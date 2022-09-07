@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(235, 213, 154);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 1em;
+}
+
+h1, h2 {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+p {
+    margin-bottom: 0.7em;
+}
+
+input {
+    padding: 5px 10px;
+    cursor: pointer;
+    background-color: #de4343;
+    border-radius: 10px;
+    border-color: #de4343;
+}
+
+input:hover {
+    background-color: #f13636;
+}
+
